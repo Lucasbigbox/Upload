@@ -1,26 +1,12 @@
-<<<<<<< HEAD
 {
   "minimumVersion" : 1,
   "packages" : [
     {
-      "title" : "Crabe Server",
-      "name" : "Crabe1.20",
-      "version" : "2024-01-01-20-07-24",
-      "location" : "crabe1.20.json",
-      "priority" : 3
+      "title" : "Crabe",
+      "name" : "Crabe",
+      "version" : "2024-01-03-19-02-14",
+      "location" : "crabe.json",
+      "priority" : 1
     }
   ]
-=======
-{
-  "minimumVersion" : 1,
-  "packages" : [
-    {
-      "title" : "Crabe Server",
-      "name" : "Crabe1.20",
-      "version" : "2024-01-01-18-54-09",
-      "location" : "crabe1.20.json",
-      "priority" : 3
-    }
-  ]
->>>>>>> 54c499d (tkt)
 }
